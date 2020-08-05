@@ -311,4 +311,4 @@ data.describe()
 
 
 
-[Full Report](https://github.com/hsong1101/Data-Analysis/blob/master/World%20Happiness%20Report/World%20Happiness%20Record.ipynb)
+Click here for [Full Report](https://github.com/hsong1101/Data-Analysis/blob/master/World%20Happiness%20Report/World%20Happiness%20Record.ipynb)
